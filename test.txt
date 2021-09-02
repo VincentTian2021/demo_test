@@ -1,0 +1,1 @@
+this is trial for remote writing from local machine via ssh
